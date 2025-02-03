@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: #d2dddf;
+    text-align: justify;
+    margin: 20px;
+}
+
+h1 {
+    color: #000000;
+    text-align: center;
+}
+
+h2 {
+    color: #000000;
+    font-size: 24px;
+}
+
+img {
+    margin: 10px auto;
+    max-width: 560px;
+    display: block; 
+}
+
+.clear {
+    clear: both;
+}
+
+p {
+    line-height: 30px;
+    font-size: 24px;
+    color: #464141;
+}
